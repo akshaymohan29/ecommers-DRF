@@ -134,3 +134,8 @@ GitHub.sublime-settings
 !.vscode/tasks.json 
 !.vscode/launch.json 
 !.vscode/extensions.json 
+Ecommers/Ecommers/settings/__pycache__/base.cpython-39.pyc
+Ecommers/Ecommers/settings/__pycache__/base.cpython-39.pyc
+.vscode/settings.json
+Ecommers/Ecommers/settings/__pycache__/base.cpython-39.pyc
+*.pyc
