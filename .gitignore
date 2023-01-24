@@ -139,3 +139,6 @@ Ecommers/Ecommers/settings/__pycache__/base.cpython-39.pyc
 .vscode/settings.json
 Ecommers/Ecommers/settings/__pycache__/base.cpython-39.pyc
 *.pyc
+
+#drf_spectacular
+schema.yml
